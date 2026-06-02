@@ -175,7 +175,7 @@ To generate this message, Docker took the following steps:
 ```
 
 <div align="center">
-  <img src="helloworld.png" width="600"/>
+  <img src="imagenes/helloworld.png" width="900"/>
 </div>
 
 #### ■ Ejecutar un archivo ".YML" para verificar el funcionamiento de contenedores
@@ -195,7 +195,7 @@ docker compose -f stack-jjbm.yml ps
 Resultado:
 
 <div align="center">
-  <img src="serviciosUP.png" width="900"/>
+  <img src="/home/julian/Imágenes/serviciosUP.png" width="900"/>
 </div>
 
 Los 4 servicios se encontraban en estado **Up**, confirmando el correcto funcionamiento del entorno.
